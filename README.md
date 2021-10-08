@@ -1,6 +1,4 @@
-# Envoy coding test
-
-Envoy Code Test
+# Envoy Code Test
 
 ## Description
 
