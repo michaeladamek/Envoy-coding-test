@@ -1,0 +1,11 @@
+main {
+  height: 100vh;
+  width: 100vw;
+}
+
+.hero {
+  background-color: #CC3332;
+  background-image: linear-gradient(154deg, #CC3332 16%, #EA8D33 56%, #FFCC33 100%, #BDBAFA 100%);
+  width: 100vw;
+  height: auto;
+}

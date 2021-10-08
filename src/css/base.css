@@ -1,0 +1,148 @@
+:root {
+  /* colors */
+  --white: #FFFFFF;
+  /* font-families */
+  --sans-serif: 'Nunito', sans-serif;
+  --serif: 'Ropa Sans', sans-serif;
+  /* screen sizes */
+  --desktop: 85.375em; /* 1366px */
+  --large-laptop: 75.000em; /* 1200px */
+  --laptop: 64.000em; /* 1024px */
+  --tablet: 48.000em; /* 768px */
+  --phone: 35.500em /* 568px */
+}
+
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Focus styles */
+/* :focus {
+  outline: none;
+  box-shadow: 0 0 0 .075rem var(--peach), 0 0 0 .25rem var(--peach);
+} */
+
+/* Selected text styles */
+/* ::selection {
+  background-color: var(--lilac);
+  color: var(--purple);
+} */
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+figure,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role='list'],
+ol[role='list'],
+ul[role='nav'],
+ol[role='nav'] {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Set core root defaults */
+html {
+  scroll-behavior: smooth;
+  font-smooth: antialiased;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 2),
+  screen and (min-resolution: 2dppx) {
+  html {
+    font-smooth: subpixel-antialiased;
+  }
+}
+
+/* Set core body defaults */
+body {
+  font-family: var(--sans-serif);
+  font-size: 1em;
+  line-height: 1.3636363636;
+  min-height: 100vh;
+  min-width: 320px;
+}
+
+@media screen and (min-width: 48.000em) {
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+svg {
+  max-width: 100%;
+}
+
+/* Remove all animations and transitions for people that prefer not to see them */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *:before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+p,
+ul,
+ol {
+  margin-bottom: 0;
+}
+
+sup {
+  font-size: 60%;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+[tabindex='-1']:focus {
+  outline: none;
+}

@@ -1,0 +1,13 @@
+<div class="copy-area wrapper">
+  <h2>{{ subhead }}</h2>
+  <img class="main-img" src="/img/{{ main-image }}" loading="lazy" alt="Image of Iron Man" />
+  <div class="features">
+    {% for feature in character.features %}
+    <div class="feature">
+      <img class="icon-img" src="/img/{{ feature.icon }}" alt="{{ feature.title }} icon" />
+      <h3>{{ feature.title }}</h3>
+      <p>{{ feature.copy }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</div>

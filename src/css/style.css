@@ -1,0 +1,267 @@
+.wrapper {
+  height: auto;
+  padding: 0 20px;
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 100vw;
+}
+
+.hero {
+  align-items: center;
+  background-color: #CC3332;
+  background-image: linear-gradient(154deg, #CC3332 16%, #EA8D33 56%, #FFCC33 100%, #BDBAFA 100%);
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 90%);
+  color: var(--white);
+  display: flex;
+  flex-direction: column;
+  font-size: 1em;
+  padding-top: 54px;
+}
+
+.hero button {
+  background-color: #F4BC00;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 3px 4px 9px 0 rgba(255,255,255,0.16);
+  color: var(--white);
+}
+
+.hero button:hover {
+  background-image: radial-gradient(50% 100%, #CC3332 46%, #CC3332 11%, #F4BC00 79%);
+  background-image: linear-gradient(154deg, #CC3332 16%, #EA8D33 56%, #FFCC33 100%, #BDBAFA 100%);
+}
+
+.hero a {
+  color: var(--white);
+}
+
+.hero h1 {
+  background: url(/img/logo.png) no-repeat;
+  background-size: 168px 40px;
+  height: 40px;
+  text-indent: -1000em;
+  width: 168px;
+}
+
+.hero nav {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-size: 0.750em;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.hero nav .sign-up {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.hero nav .sign-up button {
+  border-radius: 2px;
+  height: 24px;
+  margin-left: 1em;
+  width: 72px;
+}
+
+.hero .body {
+  align-items: center;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.hero .body img.hero-img {
+  height: 100%;
+  margin-right: 0;
+  max-width: 410px;
+  width: 80%;
+}
+
+.hero .body .copy {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 110px;
+  max-width: 708px;
+  width: 100%;
+}
+
+.hero .body button {
+  height: 42px;
+  margin-top: 15px;
+  width: 200px;
+}
+
+@media screen and (min-width: 64.000em) {
+  .hero {
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 85%);
+    padding-bottom: 10%; /*100px*/
+  }
+
+  .hero .body img.hero-img {
+    margin-right: 92px;
+  }
+}
+
+@media screen and (min-width: 48.000em) {
+  .hero {
+    font-size: 1.500em;
+  }
+
+  .hero nav {
+    margin-bottom: 30px;
+  }
+
+  .hero .body {
+    flex-direction: row-reverse;
+  }
+
+  .hero h1 {
+    background-size: 418px 98px;
+    height: 98px;
+    width: 418px;
+  }
+
+  .hero .body .copy {
+    align-items: flex-start;
+    margin-top: 82px;
+    max-width: 708px;
+    width: 65%;
+  }
+
+  .hero .body button {
+    height: 72px;
+    margin-top: 110px;
+    width: 320px;
+  }
+}
+
+@media screen and (min-width: 35.500em) {
+  .hero {
+    font-size: 1.250em;
+  }
+
+  .hero nav {
+    font-size: 1em;
+  }
+
+  .hero nav .sign-up button {
+    height: 40px;
+    margin-left: 32px;
+    width: 120px;
+  }
+}
+
+main .copy-area {
+  margin-bottom: 125px;
+}
+
+.copy-area h2 {
+  font-size: 1.500em;
+  font-weight: 400;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.copy-area img.main-img {
+  height: 100%;
+  margin-top: 30px;
+  width: 100%;
+}
+
+@media screen and (min-width: 48.000em) {
+  main .copy-area {
+    margin-bottom: 125px;
+  }
+  
+  .copy-area h2 {
+    font-size: 2.000em;
+    margin-top: 110px;
+  }
+
+  .copy-area img.main-img {
+    float: left;
+    height: 100%;
+    margin-right: 65px;
+    margin-top: 30px;
+    max-width: 472px;
+    width: 40%;
+  }
+}
+
+.features {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-size: 0.875em;
+  margin-top: 30px;
+  width: auto;
+}
+
+.features .feature {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 35px;
+  width: 100%;
+}
+
+.features .feature img.icon-img {
+  height: 52px;
+  margin-bottom: 15px;
+  margin-top: 0;
+  width: auto;
+}
+
+.features .feature h3 {
+  font-size: 1.250em;
+  font-weight: 400;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.features .feature p {
+  width: 100%;
+}
+
+@media screen and (min-width: 35.500em) {
+  .features {
+    flex-direction: row;
+  }
+
+  .features .feature {
+    width: 50%;
+  }
+
+  .features .feature h3,
+  .features .feature p {
+    max-width: 300px;
+    width: 75%;
+  }
+
+  .features .feature p {
+    font-size: 1em;
+  }
+}
+
+.comic-slider {
+  padding-bottom: 70px;
+}
+
+.comic-slider ul {
+  margin: 0;
+  padding: 0;
+}
+
+.comic-slider .comic-cover {
+  margin: 0 15px;
+  width: 226px !important;
+}
+
+.comic-slider .comic-cover img {
+  width: 100%;
+}

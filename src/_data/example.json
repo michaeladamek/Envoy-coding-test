@@ -1,0 +1,2787 @@
+{
+  "offset": 0,
+  "limit": 20,
+  "total": 2583,
+  "count": 20,
+  "results": [
+    {
+      "id": 27238,
+      "digitalId": 0,
+      "title": "Wolverine Saga (2009) #7",
+      "issueNumber": 7,
+      "variantDescription": "",
+      "description": null,
+      "modified": "-0001-11-30T00:00:00-0500",
+      "isbn": "",
+      "upc": "5960606814-00711",
+      "diamondCode": "",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/27238",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/27238/wolverine_saga_2009_7?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/8086",
+        "name": "Wolverine Saga (2009)"
+      },
+      "variants": [],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2029-12-31T00:00:00-0500" },
+        { "type": "focDate", "date": "2009-06-11T00:00:00-0400" }
+      ],
+      "prices": [{ "type": "printPrice", "price": 0 }],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+      },
+      "images": [],
+      "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27238/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+            "name": "Jeff Youngquist",
+            "role": "editor"
+          }
+        ],
+        "returned": 1
+      },
+      "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27238/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+            "name": "Wolverine"
+          }
+        ],
+        "returned": 2
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27238/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/59792",
+            "name": "Cover #59792",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/59793",
+            "name": "Interior #59793",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27238/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 92227,
+      "digitalId": 57410,
+      "title": "Giant-Size Little Marvels Infinity Comic (2021) #2",
+      "issueNumber": 2,
+      "variantDescription": "",
+      "description": "Giant-Size Little Marvels Presents \"Sorry, Cap!\"",
+      "modified": "2021-09-07T17:51:15-0400",
+      "isbn": "",
+      "upc": "759606200451000211",
+      "diamondCode": "",
+      "ean": "",
+      "issn": "",
+      "format": "Digital Vertical Comic",
+      "pageCount": 10,
+      "textObjects": [
+        {
+          "type": "issue_solicit_text",
+          "language": "en-us",
+          "text": "Giant-Size Little Marvels Presents \"Sorry, Cap!\""
+        }
+      ],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/92227",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/92227/giant-size_little_marvels_infinity_comic_2021_2?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "reader",
+          "url": "http://marvel.com/digitalcomics/view.htm?iid=57410&amp;utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/31557",
+        "name": "Giant-Size Little Marvels Infinity Comic (2021 - Present)"
+      },
+      "variants": [],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2021-09-02T00:00:00-0400" },
+        { "type": "focDate", "date": "2021-08-09T00:00:00-0400" },
+        { "type": "unlimitedDate", "date": "2021-09-02T00:00:00-0400" }
+      ],
+      "prices": [{ "type": "printPrice", "price": 0 }],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/613ac5197102e",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/613ac5197102e",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/92227/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13679",
+            "name": "Jean-Francious Beaulieu",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1190",
+            "name": "Dax Gordine",
+            "role": "inker"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1065",
+            "name": "Nate Piekos",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11879",
+            "name": "Stephen Wacker",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+            "name": "Skottie Young",
+            "role": "writer"
+          }
+        ],
+        "returned": 5
+      },
+      "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/92227/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+            "name": "Avengers"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          }
+        ],
+        "returned": 2
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/92227/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/205538",
+            "name": "cover from Giant-Size Little Marvels Vertical Comic (2021) #2",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/205539",
+            "name": "story from Giant-Size Little Marvels Vertical Comic (2021) #2",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/92227/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 90361,
+      "digitalId": 0,
+      "title": "Dark Ages (2021) #1",
+      "issueNumber": 1,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2021-07-01T09:04:57-0400",
+      "isbn": "",
+      "upc": "75960609964100111",
+      "diamondCode": "JUL210513",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 40,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/90361",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/90361/dark_ages_2021_1?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Dark-Ages-1/digital-comic/57651?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/31088",
+        "name": "Dark Ages (2021 - Present)"
+      },
+      "variants": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/94585",
+          "name": "Dark Ages (2021) #1 (Variant)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/94689",
+          "name": "Dark Ages (2021) #1 (Variant)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/96982",
+          "name": "Dark Ages (2021) #1 (Variant)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/96983",
+          "name": "Dark Ages (2021) #1 (Variant)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/96984",
+          "name": "Dark Ages (2021) #1 (Variant)"
+        }
+      ],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2021-09-01T00:00:00-0400" },
+        { "type": "focDate", "date": "2021-08-09T00:00:00-0400" }
+      ],
+      "prices": [{ "type": "printPrice", "price": 4.99 }],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/612e8dfd97c35",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/612e8dfd97c35",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90361/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+            "name": "Tom Brevoort",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10445",
+            "name": "Iban Coello",
+            "role": "inker (cover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+            "name": "Frank D'ARMATA",
+            "role": "colorist (cover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/582",
+            "name": "Brian Reber",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+            "name": "Vc Joe Sabino",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12447",
+            "name": "Tom Taylor",
+            "role": "writer"
+          }
+        ],
+        "returned": 6
+      },
+      "characters": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90361/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+            "name": "Avengers"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+            "name": "Black Panther"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+            "name": "Doctor Strange"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+            "name": "Fantastic Four"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+            "name": "Spider-Man (Peter Parker)"
+          }
+        ],
+        "returned": 6
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90361/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/201770",
+            "name": "cover from Dark Ages (2020) #1",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/201771",
+            "name": "story from Dark Ages (2020) #1",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90361/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 90385,
+      "digitalId": 0,
+      "title": "Avengers Annual (2021) #1",
+      "issueNumber": 1,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2021-08-23T12:23:11-0400",
+      "isbn": "",
+      "upc": "75960609955900111",
+      "diamondCode": "JUN210626",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 40,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/90385",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/90385/avengers_annual_2021_1?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/AVENGERS-ANNUAL-1-1/digital-comic/57158?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/31102",
+        "name": "Avengers Annual (2021)"
+      },
+      "variants": [],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2021-08-25T00:00:00-0400" },
+        { "type": "focDate", "date": "2021-08-02T00:00:00-0400" }
+      ],
+      "prices": [{ "type": "printPrice", "price": 4.99 }],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/60e5e16b478a9",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/60e5e16b478a9",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90385/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+            "name": "Vc Joe Caramagna",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+            "name": "Vc Cory Petit",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13558",
+            "name": "Juan Ferreyra",
+            "role": "penciler"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/735",
+            "name": "Travel Foreman",
+            "role": "inker"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+            "name": "Nick Lowe",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13471",
+            "name": "Jed Mackay",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/14265",
+            "name": "Alex Sinclair",
+            "role": "colorist (cover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13703",
+            "name": "Federico Vicentini",
+            "role": "penciler (cover)"
+          }
+        ],
+        "returned": 8
+      },
+      "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90385/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+            "name": "Captain America"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+            "name": "Nick Fury"
+          }
+        ],
+        "returned": 3
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90385/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/201818",
+            "name": "cover from Tbd August Annual (2020) #1",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/201819",
+            "name": "story from Tbd August Annual (2020) #1",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90385/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 89677,
+      "digitalId": 0,
+      "title": "Iron Man (2020) #11",
+      "issueNumber": 11,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2020-11-26T09:07:18-0500",
+      "isbn": "",
+      "upc": "75960609866801111",
+      "diamondCode": "JUN210692",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/89677",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/89677/iron_man_2020_11?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Iron-Man-11/digital-comic/57179?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/30148",
+        "name": "Iron Man (2020 - Present)"
+      },
+      "variants": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/96026",
+          "name": "Iron Man (2020) #11 (Variant)"
+        }
+      ],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2021-08-18T00:00:00-0400" },
+        { "type": "focDate", "date": "2021-07-26T00:00:00-0400" }
+      ],
+      "prices": [{ "type": "printPrice", "price": 3.99 }],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/60e5e1bdbe135",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/60e5e1bdbe135",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/89677/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+            "name": "Tom Brevoort",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13861",
+            "name": "Christopher Cantwell",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+            "name": "Vc Joe Caramagna",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+            "name": "Frank D'ARMATA",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+            "name": "Alex Ross",
+            "role": "painter (cover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13816",
+            "name": "Angel Unzueta",
+            "role": "inker"
+          }
+        ],
+        "returned": 6
+      },
+      "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/89677/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010351",
+            "name": "Hellcat (Patsy Walker)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          }
+        ],
+        "returned": 2
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/89677/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/199671",
+            "name": "cover from Iron Man (2020) #11",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/199672",
+            "name": "story from Iron Man (2020) #11",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/89677/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 89602,
+      "digitalId": 0,
+      "title": "Daredevil (2019) #32",
+      "issueNumber": 32,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2021-01-28T09:03:32-0500",
+      "isbn": "",
+      "upc": "75960609142303211",
+      "diamondCode": "MAY210663",
+      "ean": "",
+      "issn": "2578-8779",
+      "format": "Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/89602",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/89602/daredevil_2019_32?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Daredevil-32/digital-comic/57042?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/26080",
+        "name": "Daredevil (2019 - Present)"
+      },
+      "variants": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/95689",
+          "name": "Daredevil (2019) #32 (Variant)"
+        }
+      ],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2021-07-28T00:00:00-0400" },
+        { "type": "focDate", "date": "2021-07-05T00:00:00-0400" }
+      ],
+      "prices": [{ "type": "printPrice", "price": 3.99 }],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/60fad327e5636",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/60fad327e5636",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/89602/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13074",
+            "name": "Adriano DI Benedetto",
+            "role": "inker"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11748",
+            "name": "Marco Checchetto",
+            "role": "penciler (cover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+            "name": "Vc Clayton Cowles",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/942",
+            "name": "Mike Hawthorne",
+            "role": "penciler"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+            "name": "Edward Devin Lewis",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13058",
+            "name": "Marcio Menyz",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+            "name": "Matthew Wilson",
+            "role": "colorist (cover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12494",
+            "name": "Chip Zdarsky",
+            "role": "writer"
+          }
+        ],
+        "returned": 8
+      },
+      "characters": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/89602/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+            "name": "Daredevil"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009288",
+            "name": "Elektra"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009389",
+            "name": "Kingpin"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010369",
+            "name": "Typhoid Mary"
+          }
+        ],
+        "returned": 5
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/89602/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/199521",
+            "name": "cover from Daredevil (2019) #32",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/199522",
+            "name": "story from Daredevil (2019) #32",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/89602/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 85586,
+      "digitalId": 0,
+      "title": "Iron Man (2020) #10",
+      "issueNumber": 10,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2020-11-26T09:07:17-0500",
+      "isbn": "",
+      "upc": "75960609866801011",
+      "diamondCode": "MAY210629",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/85586",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/85586/iron_man_2020_10?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Iron-Man-10/digital-comic/57053?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/30148",
+        "name": "Iron Man (2020 - Present)"
+      },
+      "variants": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/95637",
+          "name": "Iron Man (2020) #10 (Variant)"
+        }
+      ],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2021-07-14T00:00:00-0400" },
+        { "type": "focDate", "date": "2021-06-21T00:00:00-0400" }
+      ],
+      "prices": [{ "type": "printPrice", "price": 3.99 }],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/60e72a6ea4f79",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/60e72a6ea4f79",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85586/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+            "name": "Tom Brevoort",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13689",
+            "name": "C Cafu",
+            "role": "inker"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13861",
+            "name": "Christopher Cantwell",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+            "name": "Vc Joe Caramagna",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+            "name": "Frank D'ARMATA",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+            "name": "Alex Ross",
+            "role": "painter (cover)"
+          }
+        ],
+        "returned": 6
+      },
+      "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85586/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010351",
+            "name": "Hellcat (Patsy Walker)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          }
+        ],
+        "returned": 2
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85586/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190134",
+            "name": "cover from Iron Man (2020) #10",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190135",
+            "name": "story from Iron Man (2020) #10",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85586/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 85585,
+      "digitalId": 56899,
+      "title": "Iron Man (2020) #9",
+      "issueNumber": 9,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2021-02-26T09:06:02-0500",
+      "isbn": "",
+      "upc": "75960609866800911",
+      "diamondCode": "APR210907",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/85585",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/85585/iron_man_2020_9?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Iron-Man-9/digital-comic/56899?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "reader",
+          "url": "http://marvel.com/digitalcomics/view.htm?iid=56899&amp;utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "inAppLink",
+          "url": "https://applink.marvel.com/issue/56899?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/30148",
+        "name": "Iron Man (2020 - Present)"
+      },
+      "variants": [],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2021-06-09T00:00:00-0400" },
+        { "type": "focDate", "date": "2021-05-17T00:00:00-0400" },
+        { "type": "unlimitedDate", "date": "2021-09-13T00:00:00-0400" },
+        { "type": "digitalPurchaseDate", "date": "2021-06-09T00:00:00-0400" }
+      ],
+      "prices": [
+        { "type": "printPrice", "price": 3.99 },
+        { "type": "digitalPurchasePrice", "price": 3.99 }
+      ],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/60afe2679ac23",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/60afe2679ac23",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85585/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+            "name": "Tom Brevoort",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13689",
+            "name": "C Cafu",
+            "role": "inker"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13861",
+            "name": "Christopher Cantwell",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+            "name": "Vc Joe Caramagna",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+            "name": "Frank D'ARMATA",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+            "name": "Alex Ross",
+            "role": "painter (cover)"
+          }
+        ],
+        "returned": 6
+      },
+      "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85585/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011312",
+            "name": "Korvac"
+          }
+        ],
+        "returned": 2
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85585/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190132",
+            "name": "cover from Iron Man (2020) #9",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190133",
+            "name": "story from Iron Man (2020) #9",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85585/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 90339,
+      "digitalId": 55096,
+      "title": "Iron Man Annual (2021) #1",
+      "issueNumber": 1,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2021-05-31T00:13:54-0400",
+      "isbn": "",
+      "upc": "75960609949800111",
+      "diamondCode": "APR210728",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 40,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/90339",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/90339/iron_man_annual_2021_1?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Iron-Man-Annual-1/digital-comic/55096?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "reader",
+          "url": "http://marvel.com/digitalcomics/view.htm?iid=55096&amp;utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "inAppLink",
+          "url": "https://applink.marvel.com/issue/55096?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/31082",
+        "name": "Iron Man Annual (2021)"
+      },
+      "variants": [],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2021-06-02T00:00:00-0400" },
+        { "type": "focDate", "date": "2021-05-10T00:00:00-0400" },
+        { "type": "unlimitedDate", "date": "2021-09-06T00:00:00-0400" },
+        { "type": "digitalPurchaseDate", "date": "2021-06-02T00:00:00-0400" }
+      ],
+      "prices": [
+        { "type": "printPrice", "price": 4.99 },
+        { "type": "digitalPurchasePrice", "price": 4.99 }
+      ],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/60afe2ec8a982",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/60afe2ec8a982",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90339/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11875",
+            "name": "Nick Bradshaw",
+            "role": "penciler (cover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+            "name": "Vc Joe Caramagna",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13558",
+            "name": "Juan Ferreyra",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+            "name": "Rachelle Rosenberg",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+            "name": "Morry Hollowell",
+            "role": "colorist (cover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+            "name": "Nick Lowe",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13471",
+            "name": "Jed Mackay",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10061",
+            "name": "Ibraim Roberson",
+            "role": "inker"
+          }
+        ],
+        "returned": 8
+      },
+      "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90339/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          }
+        ],
+        "returned": 1
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90339/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/201726",
+            "name": "cover from Iron Man Annual (2020) #1",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/201727",
+            "name": "story from Iron Man Annual (2020) #1",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90339/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 90521,
+      "digitalId": 0,
+      "title": "Man-Thing by Steve Gerber: The Complete Collection Vol. 3 (Trade Paperback)",
+      "issueNumber": 0,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2021-04-16T15:25:37-0400",
+      "isbn": "978-1-302-92775-2",
+      "upc": "",
+      "diamondCode": "NOV200638",
+      "ean": "9781302 927752 54499",
+      "issn": "",
+      "format": "Trade Paperback",
+      "pageCount": 408,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/90521",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/collection/90521/man-thing_by_steve_gerber_the_complete_collection_vol_3_trade_paperback?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Man-Thing-by-Steve-Gerber-The-Complete-Collection-Vol-3-0/digital-comic/56206?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/31151",
+        "name": "Man-Thing by Steve Gerber: The Complete Collection Vol. 3 (2021)"
+      },
+      "variants": [],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2021-04-21T00:00:00-0400" },
+        { "type": "focDate", "date": "2021-02-22T00:00:00-0500" }
+      ],
+      "prices": [{ "type": "printPrice", "price": 44.99 }],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/60799bd8876ac",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/60799bd8876ac",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 9,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90521/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+            "name": "Various",
+            "role": "penciller"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+            "name": "Sal Buscema",
+            "role": "penciller"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/3555",
+            "name": "Donald Hudson",
+            "role": "penciller"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1967",
+            "name": "Brad K. Joyce",
+            "role": "penciller"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8264",
+            "name": "Cynthia Martin",
+            "role": "penciller"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/957",
+            "name": "Val Mayerik",
+            "role": "penciller"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12208",
+            "name": "Arthur Adams",
+            "role": "penciller (cover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/144",
+            "name": "Steve Gerber",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+            "name": "Jeff Youngquist",
+            "role": "editor"
+          }
+        ],
+        "returned": 9
+      },
+      "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90521/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009420",
+            "name": "Man-Thing"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+            "name": "Spider-Man (Peter Parker)"
+          }
+        ],
+        "returned": 3
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90521/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/202101",
+            "name": "cover from MAN-THING BY STEVE GERBER: THE COMPLETE COLLECTION VOL. 3 TPB (2020) #1",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/202102",
+            "name": "story from MAN-THING BY STEVE GERBER: THE COMPLETE COLLECTION VOL. 3 TPB (2020) #1",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90521/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 85584,
+      "digitalId": 56504,
+      "title": "Iron Man (2020) #8",
+      "issueNumber": 8,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2020-04-30T09:15:11-0400",
+      "isbn": "",
+      "upc": "75960609866800811",
+      "diamondCode": "FEB210630",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/85584",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/85584/iron_man_2020_8?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Iron-Man-8/digital-comic/56504?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "reader",
+          "url": "http://marvel.com/digitalcomics/view.htm?iid=56504&amp;utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "inAppLink",
+          "url": "https://applink.marvel.com/issue/56504?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/30148",
+        "name": "Iron Man (2020 - Present)"
+      },
+      "variants": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/94017",
+          "name": "Iron Man (2020) #8 (Variant)"
+        }
+      ],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2021-04-14T00:00:00-0400" },
+        { "type": "focDate", "date": "2021-03-22T00:00:00-0400" },
+        { "type": "unlimitedDate", "date": "2021-07-19T00:00:00-0400" },
+        { "type": "digitalPurchaseDate", "date": "2021-04-14T00:00:00-0400" }
+      ],
+      "prices": [
+        { "type": "printPrice", "price": 3.99 },
+        { "type": "digitalPurchasePrice", "price": 3.99 }
+      ],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/6066104ab59ac",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/6066104ab59ac",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85584/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+            "name": "Tom Brevoort",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13861",
+            "name": "Christopher Cantwell",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+            "name": "Vc Joe Caramagna",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+            "name": "Frank D'ARMATA",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+            "name": "Alex Ross",
+            "role": "painter (cover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13816",
+            "name": "Angel Unzueta",
+            "role": "inker"
+          }
+        ],
+        "returned": 6
+      },
+      "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85584/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010351",
+            "name": "Hellcat (Patsy Walker)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009451",
+            "name": "Moondragon"
+          }
+        ],
+        "returned": 3
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85584/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190130",
+            "name": "cover from Iron Man (2020) #8",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190131",
+            "name": "story from Iron Man (2020) #8",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85584/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 85583,
+      "digitalId": 56404,
+      "title": "Iron Man (2020) #7",
+      "issueNumber": 7,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2020-04-30T09:15:11-0400",
+      "isbn": "",
+      "upc": "75960609866800711",
+      "diamondCode": "JAN210676",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/85583",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/85583/iron_man_2020_7?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Iron-Man-7/digital-comic/56404?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "reader",
+          "url": "http://marvel.com/digitalcomics/view.htm?iid=56404&amp;utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "inAppLink",
+          "url": "https://applink.marvel.com/issue/56404?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/30148",
+        "name": "Iron Man (2020 - Present)"
+      },
+      "variants": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/93735",
+          "name": "Iron Man (2020) #7 (Variant)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/93736",
+          "name": "Iron Man (2020) #7 (Variant)"
+        }
+      ],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2021-03-17T00:00:00-0400" },
+        { "type": "focDate", "date": "2021-02-22T00:00:00-0500" },
+        { "type": "unlimitedDate", "date": "2021-06-21T00:00:00-0400" },
+        { "type": "digitalPurchaseDate", "date": "2021-03-17T00:00:00-0400" }
+      ],
+      "prices": [
+        { "type": "printPrice", "price": 3.99 },
+        { "type": "digitalPurchasePrice", "price": 3.99 }
+      ],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/60464e34ad23a",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/60464e34ad23a",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85583/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+            "name": "Tom Brevoort",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13689",
+            "name": "C Cafu",
+            "role": "inker"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13861",
+            "name": "Christopher Cantwell",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+            "name": "Vc Joe Caramagna",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+            "name": "Frank D'ARMATA",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+            "name": "Alex Ross",
+            "role": "painter (cover)"
+          }
+        ],
+        "returned": 6
+      },
+      "characters": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85583/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010351",
+            "name": "Hellcat (Patsy Walker)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010682",
+            "name": "Misty Knight"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017834",
+            "name": "War Machine (James Rhodes)"
+          }
+        ],
+        "returned": 4
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85583/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190128",
+            "name": "cover from Iron Man (2020) #7",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190129",
+            "name": "story from Iron Man (2020) #7",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85583/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 85582,
+      "digitalId": 56153,
+      "title": "Iron Man (2020) #6",
+      "issueNumber": 6,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2020-04-30T09:15:10-0400",
+      "isbn": "",
+      "upc": "75960609866800611",
+      "diamondCode": "DEC200592",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/85582",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/85582/iron_man_2020_6?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Iron-Man-6/digital-comic/56153?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "reader",
+          "url": "http://marvel.com/digitalcomics/view.htm?iid=56153&amp;utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "inAppLink",
+          "url": "https://applink.marvel.com/issue/56153?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/30148",
+        "name": "Iron Man (2020 - Present)"
+      },
+      "variants": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/93222",
+          "name": "Iron Man (2020) #6 (Variant)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/93421",
+          "name": "Iron Man (2020) #6 (Variant)"
+        }
+      ],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2021-02-17T00:00:00-0500" },
+        { "type": "focDate", "date": "2021-01-25T00:00:00-0500" },
+        { "type": "unlimitedDate", "date": "2021-05-24T00:00:00-0400" },
+        { "type": "digitalPurchaseDate", "date": "2021-02-17T00:00:00-0500" }
+      ],
+      "prices": [
+        { "type": "printPrice", "price": 3.99 },
+        { "type": "digitalPurchasePrice", "price": 3.99 }
+      ],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/6026d1a2c7e5b",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/6026d1a2c7e5b",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85582/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+            "name": "Tom Brevoort",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13689",
+            "name": "C Cafu",
+            "role": "inker"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13861",
+            "name": "Christopher Cantwell",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+            "name": "Vc Joe Caramagna",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+            "name": "Frank D'ARMATA",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+            "name": "Alex Ross",
+            "role": "painter (cover)"
+          }
+        ],
+        "returned": 6
+      },
+      "characters": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85582/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010351",
+            "name": "Hellcat (Patsy Walker)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010682",
+            "name": "Misty Knight"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017834",
+            "name": "War Machine (James Rhodes)"
+          }
+        ],
+        "returned": 4
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85582/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190126",
+            "name": "cover from Iron Man (2020) #6",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190127",
+            "name": "story from Iron Man (2020) #6",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85582/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 85581,
+      "digitalId": 56023,
+      "title": "Iron Man (2020) #5",
+      "issueNumber": 5,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2020-11-05T09:06:05-0500",
+      "isbn": "",
+      "upc": "75960609866800511",
+      "diamondCode": "NOV200535",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/85581",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/85581/iron_man_2020_5?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Iron-Man-5/digital-comic/56023?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "reader",
+          "url": "http://marvel.com/digitalcomics/view.htm?iid=56023&amp;utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "inAppLink",
+          "url": "https://applink.marvel.com/issue/56023?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/30148",
+        "name": "Iron Man (2020 - Present)"
+      },
+      "variants": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/92689",
+          "name": "Iron Man (2020) #5 (Variant)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/92690",
+          "name": "Iron Man (2020) #5 (Variant)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/92691",
+          "name": "Iron Man (2020) #5 (Variant)"
+        }
+      ],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2021-01-06T00:00:00-0500" },
+        { "type": "focDate", "date": "2020-12-07T00:00:00-0500" },
+        { "type": "unlimitedDate", "date": "2021-04-12T00:00:00-0400" },
+        { "type": "digitalPurchaseDate", "date": "2021-01-06T00:00:00-0500" }
+      ],
+      "prices": [
+        { "type": "printPrice", "price": 3.99 },
+        { "type": "digitalPurchasePrice", "price": 3.99 }
+      ],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5ff32d1157a75",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5ff32d1157a75",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85581/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+            "name": "Tom Brevoort",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13689",
+            "name": "C Cafu",
+            "role": "inker"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13861",
+            "name": "Christopher Cantwell",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+            "name": "Vc Joe Caramagna",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+            "name": "Frank D'ARMATA",
+            "role": "colorist"
+          }
+        ],
+        "returned": 5
+      },
+      "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85581/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010351",
+            "name": "Hellcat (Patsy Walker)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          }
+        ],
+        "returned": 2
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85581/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190124",
+            "name": "cover from Iron Man (2020) #5",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190125",
+            "name": "story from Iron Man (2020) #5",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85581/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 91755,
+      "digitalId": 55811,
+      "title": "King In Black: Iron Man/Doom (2020) #1",
+      "issueNumber": 1,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2020-12-23T16:30:22-0500",
+      "isbn": "",
+      "upc": "75960620014600111",
+      "diamondCode": "OCT200529",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/91755",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/91755/king_in_black_iron_mandoom_2020_1?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/King-In-Black-Iron-Man-Doom-1/digital-comic/55811?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "reader",
+          "url": "http://marvel.com/digitalcomics/view.htm?iid=55811&amp;utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "inAppLink",
+          "url": "https://applink.marvel.com/issue/55811?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/31382",
+        "name": "King In Black: Iron Man/Doom (2020)"
+      },
+      "variants": [],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2020-12-30T00:00:00-0500" },
+        { "type": "focDate", "date": "2020-11-23T00:00:00-0500" },
+        { "type": "unlimitedDate", "date": "2021-04-05T00:00:00-0400" },
+        { "type": "digitalPurchaseDate", "date": "2020-12-30T00:00:00-0500" }
+      ],
+      "prices": [
+        { "type": "printPrice", "price": 3.99 },
+        { "type": "digitalPurchasePrice", "price": 3.99 }
+      ],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/5fda7db6809b2",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/5fda7db6809b2",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/91755/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+            "name": "Tom Brevoort",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13861",
+            "name": "Christopher Cantwell",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12239",
+            "name": "Guru Efx",
+            "role": "colorist (cover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12993",
+            "name": "Vc Travis Lanham",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+            "name": "Salvador Larroca",
+            "role": "penciler (cover)"
+          }
+        ],
+        "returned": 5
+      },
+      "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/91755/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+            "name": "Doctor Doom"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          }
+        ],
+        "returned": 2
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/91755/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/204595",
+            "name": "cover from King in Black: Iron Man/Doom (2020) #1",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/204596",
+            "name": "story from King in Black: Iron Man/Doom (2020) #1",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/91755/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 85580,
+      "digitalId": 55805,
+      "title": "Iron Man (2020) #4",
+      "issueNumber": 4,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2020-04-30T09:15:08-0400",
+      "isbn": "",
+      "upc": "75960609866800411",
+      "diamondCode": "OCT200621",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/85580",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/85580/iron_man_2020_4?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Iron-Man-4/digital-comic/55805?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "reader",
+          "url": "http://marvel.com/digitalcomics/view.htm?iid=55805&amp;utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "inAppLink",
+          "url": "https://applink.marvel.com/issue/55805?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/30148",
+        "name": "Iron Man (2020 - Present)"
+      },
+      "variants": [
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/92381",
+          "name": "Iron Man (2020) #4 (Variant)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/93104",
+          "name": "Iron Man (2020) #4 (Variant)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/92379",
+          "name": "Iron Man (2020) #4 (Variant)"
+        },
+        {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/92380",
+          "name": "Iron Man (2020) #4 (Variant)"
+        }
+      ],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2020-12-16T00:00:00-0500" },
+        { "type": "focDate", "date": "2020-11-16T00:00:00-0500" },
+        { "type": "unlimitedDate", "date": "2021-03-22T00:00:00-0400" },
+        { "type": "digitalPurchaseDate", "date": "2020-12-16T00:00:00-0500" }
+      ],
+      "prices": [
+        { "type": "printPrice", "price": 3.99 },
+        { "type": "digitalPurchasePrice", "price": 3.99 }
+      ],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/5fcfb889bf381",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/5fcfb889bf381",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85580/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+            "name": "Tom Brevoort",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13689",
+            "name": "C Cafu",
+            "role": "inker"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13861",
+            "name": "Christopher Cantwell",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+            "name": "Vc Joe Caramagna",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+            "name": "Frank D'ARMATA",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+            "name": "Alex Ross",
+            "role": "painter (cover)"
+          }
+        ],
+        "returned": 6
+      },
+      "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85580/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010351",
+            "name": "Hellcat (Patsy Walker)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          }
+        ],
+        "returned": 2
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85580/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190122",
+            "name": "cover from Iron Man (2020) #4",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190123",
+            "name": "story from Iron Man (2020) #4",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85580/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 78359,
+      "digitalId": 54855,
+      "title": "Avengers: Marvels Snapshots (2020) #1",
+      "issueNumber": 1,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2020-11-13T14:55:51-0500",
+      "isbn": "",
+      "upc": "75960609607700111",
+      "diamondCode": "MAR200967",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 40,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/78359",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/78359/avengers_marvels_snapshots_2020_1?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Avengers-Marvels-Snapshots-1/digital-comic/54855?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "reader",
+          "url": "http://marvel.com/digitalcomics/view.htm?iid=54855&amp;utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "inAppLink",
+          "url": "https://applink.marvel.com/issue/54855?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/27946",
+        "name": "Avengers: Marvels Snapshots (2020)"
+      },
+      "variants": [],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2020-11-18T00:00:00-0500" },
+        { "type": "focDate", "date": "2020-10-26T00:00:00-0400" },
+        { "type": "unlimitedDate", "date": "2021-02-22T00:00:00-0500" },
+        { "type": "digitalPurchaseDate", "date": "2020-11-18T00:00:00-0500" }
+      ],
+      "prices": [
+        { "type": "printPrice", "price": 4.99 },
+        { "type": "digitalPurchasePrice", "price": 4.99 }
+      ],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/601af718c2612",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/601af718c2612",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/78359/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+            "name": "Tom Brevoort",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+            "name": "Kurt Busiek",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13940",
+            "name": "Barbara Kesel",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9937",
+            "name": "Jim Charalampidis",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/338",
+            "name": "Staz Johnson",
+            "role": "penciler"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/14075",
+            "name": "Vc Ariana Maher",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/527",
+            "name": "Tom Palmer",
+            "role": "inker"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+            "name": "Alex Ross",
+            "role": "painter (cover)"
+          }
+        ],
+        "returned": 8
+      },
+      "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/78359/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          }
+        ],
+        "returned": 1
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/78359/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/173734",
+            "name": "cover from Marvels Snapshots: TBD D (2029) #1",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/173735",
+            "name": "story from Marvels Snapshots: TBD D (2029) #1",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/78359/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 85579,
+      "digitalId": 55692,
+      "title": "Iron Man (2020) #3",
+      "issueNumber": 3,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2021-02-04T09:03:43-0500",
+      "isbn": "",
+      "upc": "75960609866800311",
+      "diamondCode": "SEP200610",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/85579",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/85579/iron_man_2020_3?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Iron-Man-3/digital-comic/55692?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "reader",
+          "url": "http://marvel.com/digitalcomics/view.htm?iid=55692&amp;utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "inAppLink",
+          "url": "https://applink.marvel.com/issue/55692?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/30148",
+        "name": "Iron Man (2020 - Present)"
+      },
+      "variants": [],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2020-11-11T00:00:00-0500" },
+        { "type": "focDate", "date": "2020-10-19T00:00:00-0400" },
+        { "type": "unlimitedDate", "date": "2021-02-15T00:00:00-0500" },
+        { "type": "digitalPurchaseDate", "date": "2020-11-11T00:00:00-0500" }
+      ],
+      "prices": [
+        { "type": "printPrice", "price": 3.99 },
+        { "type": "digitalPurchasePrice", "price": 3.99 }
+      ],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/601af74223bdf",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/601af74223bdf",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85579/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+            "name": "Tom Brevoort",
+            "role": "editor"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13689",
+            "name": "C Cafu",
+            "role": "inker"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13861",
+            "name": "Christopher Cantwell",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+            "name": "Vc Joe Caramagna",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+            "name": "Frank D'ARMATA",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+            "name": "Alex Ross",
+            "role": "painter (cover)"
+          }
+        ],
+        "returned": 6
+      },
+      "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85579/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          }
+        ],
+        "returned": 1
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85579/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190120",
+            "name": "cover from Iron Man (2020) #3",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190121",
+            "name": "story from Iron Man (2020) #3",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/85579/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 93469,
+      "digitalId": 56118,
+      "title": "Marvel Action Chillers (2020) #1",
+      "issueNumber": 1,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2020-10-26T09:01:48-0400",
+      "isbn": "",
+      "upc": "",
+      "diamondCode": "",
+      "ean": "",
+      "issn": "",
+      "format": "Digital Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/93469",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/93469/marvel_action_chillers_2020_1?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "reader",
+          "url": "http://marvel.com/digitalcomics/view.htm?iid=56118&amp;utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/31944",
+        "name": "Marvel Action Chillers (2020)"
+      },
+      "variants": [],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2020-11-11T00:00:00-0500" },
+        { "type": "focDate", "date": "-0001-11-30T00:00:00-0500" },
+        { "type": "unlimitedDate", "date": "2021-02-15T00:00:00-0500" }
+      ],
+      "prices": [{ "type": "printPrice", "price": 0 }],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/5fabf8585dc47",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/5fabf8585dc47",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/93469/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13870",
+            "name": "Sweeney Boo",
+            "role": "penciller (cover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/12838",
+            "name": "Jeremy Whitley",
+            "role": "writer"
+          }
+        ],
+        "returned": 2
+      },
+      "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/93469/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+            "name": "Doctor Strange"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017831",
+            "name": "Ironheart (Riri Williams)"
+          }
+        ],
+        "returned": 3
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/93469/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/208051",
+            "name": "cover from Marvel Action Chillers (2020) #1",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/208052",
+            "name": "story from Marvel Action Chillers (2020) #1",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/93469/events",
+        "items": [],
+        "returned": 0
+      }
+    },
+    {
+      "id": 76360,
+      "digitalId": 55050,
+      "title": "Aero (2019) #12",
+      "issueNumber": 12,
+      "variantDescription": "",
+      "description": null,
+      "modified": "2021-01-20T18:37:17-0500",
+      "isbn": "",
+      "upc": "75960609455401211",
+      "diamondCode": "APR201036",
+      "ean": "",
+      "issn": "",
+      "format": "Comic",
+      "pageCount": 32,
+      "textObjects": [],
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/76360",
+      "urls": [
+        {
+          "type": "detail",
+          "url": "http://marvel.com/comics/issue/76360/aero_2019_12?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "purchase",
+          "url": "http://comicstore.marvel.com/Aero-12/digital-comic/55050?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "reader",
+          "url": "http://marvel.com/digitalcomics/view.htm?iid=55050&amp;utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        },
+        {
+          "type": "inAppLink",
+          "url": "https://applink.marvel.com/issue/55050?utm_campaign=apiRef&amp;utm_source=e121ce2b457a9b576dc0302550a94c44"
+        }
+      ],
+      "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/27392",
+        "name": "Aero (2019 - 2020)"
+      },
+      "variants": [],
+      "collections": [],
+      "collectedIssues": [],
+      "dates": [
+        { "type": "onsaleDate", "date": "2020-10-21T00:00:00-0400" },
+        { "type": "focDate", "date": "2020-09-28T00:00:00-0400" },
+        { "type": "unlimitedDate", "date": "2021-01-25T00:00:00-0500" },
+        { "type": "digitalPurchaseDate", "date": "2020-10-21T00:00:00-0400" }
+      ],
+      "prices": [
+        { "type": "printPrice", "price": 3.99 },
+        { "type": "digitalPurchasePrice", "price": 3.99 }
+      ],
+      "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5f89edcf5eec9",
+        "extension": "jpg"
+      },
+      "images": [
+        {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5f89edcf5eec9",
+          "extension": "jpg"
+        }
+      ],
+      "creators": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/76360/creators",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13180",
+            "name": "Federico Blee",
+            "role": "colorist"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+            "name": "Vc Joe Caramagna",
+            "role": "letterer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5105",
+            "name": "Pop Mhan",
+            "role": "inker"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13924",
+            "name": "Xu Ming",
+            "role": "penciler (cover)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+            "name": "Greg Pak",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13917",
+            "name": "Alyssa Wong",
+            "role": "writer"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+            "name": "Mark Paniccia",
+            "role": "editor"
+          }
+        ],
+        "returned": 7
+      },
+      "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/76360/characters",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017851",
+            "name": "Aero (Aero)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+            "name": "Iron Man"
+          }
+        ],
+        "returned": 2
+      },
+      "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/76360/stories",
+        "items": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/169592",
+            "name": "cover from Aero (2019) #12",
+            "type": "cover"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/stories/169593",
+            "name": "story from Aero (2019) #12",
+            "type": "interiorStory"
+          }
+        ],
+        "returned": 2
+      },
+      "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/76360/events",
+        "items": [],
+        "returned": 0
+      }
+    }
+  ]
+}

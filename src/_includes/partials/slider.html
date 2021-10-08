@@ -1,0 +1,11 @@
+<div class="comic-slider">
+  <ul>
+  {% for result in marvel.data.results %}
+  <li class="comic-cover">
+    <a href="{{ result.urls[0].url }}">
+      <img src="{{ result.images[0].path }}/portrait_fantastic.{{ result.images[0].extension}}" alt="{{ result.title}}" />          
+    </a>
+  </li>
+  {% endfor %}
+  </ul>
+</div>
